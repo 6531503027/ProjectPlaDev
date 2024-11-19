@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "vue-toastification": "^1.7.14"
+  }
+}
